@@ -44,7 +44,7 @@ select DISTINCT last_name from actor;
 select last_name, count(*) as number_of_duplikates from actor GROUP BY last_name HAVING COUNT(*) > 1;
 
 -- 10.2.6 Który aktor wystąpił w największej ilości filmów? Ile było to filmów?
-select actor_id, count(*) as number_of_films from film_actor GROUP BY actor_id;
+select actor_id, count(*) as number_of_films from film_actor GROUP BY actor_id ORDER BY number_of_films DESC LIMIT 1;
 
 -- 10.2.7 Jaka jest średnia długość filmu w bazie?
 select * from film;

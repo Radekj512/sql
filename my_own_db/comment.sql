@@ -77,7 +77,7 @@ insert into comment (id, user_id, news_id, adding_time, content) values (76, 18,
 insert into comment (id, user_id, news_id, adding_time, content) values (77, 9, 17, '2018-09-25 15:18:18', '¡™£¢∞§¶•ªº–≠');
 insert into comment (id, user_id, news_id, adding_time, content) values (78, 2, 20, '2019-02-07 04:02:56', '​');
 insert into comment (id, user_id, news_id, adding_time, content) values (79, 2, 10, '2018-08-13 09:30:36', '社會科學院語學研究所');
-insert into comment (id, user_id, news_id, adding_time, content) values (80, 20, 2, '2019-03-31 22:06:34', null);
+insert into comment (id, user_id, news_id, adding_time, content) values (80, 20, 2, '2019-03-31 22:06:34', "sadas");
 insert into comment (id, user_id, news_id, adding_time, content) values (81, 7, 1, '2018-06-04 01:14:41', ' test ');
 insert into comment (id, user_id, news_id, adding_time, content) values (82, 12, 8, '2019-01-15 10:30:15', 'Œ„´‰ˇÁ¨ˆØ∏”’');
 insert into comment (id, user_id, news_id, adding_time, content) values (83, 5, 20, '2019-02-19 05:28:39', '__ﾛ(,_,*)');
@@ -92,7 +92,7 @@ insert into comment (id, user_id, news_id, adding_time, content) values (91, 5, 
 insert into comment (id, user_id, news_id, adding_time, content) values (92, 6, 20, '2019-01-14 21:39:10', '🚾 🆒 🆓 🆕 🆖 🆗 🆙 🏧');
 insert into comment (id, user_id, news_id, adding_time, content) values (93, 6, 15, '2018-10-01 00:02:38', '""');
 insert into comment (id, user_id, news_id, adding_time, content) values (94, 10, 8, '2018-07-12 20:32:30', ',。・:*:・゜’( ☻ ω ☻ )。・:*:・゜’');
-insert into comment (id, user_id, news_id, adding_time, content) values (95, 17, 2, '2018-05-18 09:36:02', 'NULL');
+insert into comment (id, user_id, news_id, adding_time, content) values (95, 17, 2, '2018-05-18 09:36:02', 'asd');
 insert into comment (id, user_id, news_id, adding_time, content) values (96, 18, 16, '2018-10-03 05:05:28', '̦H̬̤̗̤͝e͜ ̜̥̝̻͍̟́w̕h̖̯͓o̝͙̖͎̱̮ ҉̺̙̞̟͈W̷̼̭a̺̪͍į͈͕̭͙̯̜t̶̼̮s̘͙͖̕ ̠̫̠B̻͍͙͉̳ͅe̵h̵̬͇̫͙i̹͓̳̳̮͎̫̕n͟d̴̪̜̖ ̰͉̩͇͙̲͞ͅT͖̼͓̪͢h͏͓̮̻e̬̝̟ͅ ̤̹̝W͙̞̝͔͇͝ͅa͏͓͔̹̼̣l̴͔̰̤̟͔ḽ̫.͕');
 insert into comment (id, user_id, news_id, adding_time, content) values (97, 12, 15, '2018-06-16 18:22:08', '🚾 🆒 🆓 🆕 🆖 🆗 🆙 🏧');
 insert into comment (id, user_id, news_id, adding_time, content) values (98, 12, 11, '2018-05-02 11:07:26', '1/2');
