@@ -69,7 +69,7 @@ ALTER VIEW count_of_managers_in_departments AS
         departments d ON dm.dept_no = d.dept_no
     GROUP BY dm.dept_no;
     
-    SELECT 
+SELECT 
     *
 FROM
     count_of_managers_in_departments
